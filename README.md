@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Aroshakalpana2468
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Arosha kalpana
+- my age is 13 years old
+- my county is shri lanka
+- my Language is sinhala
+
 
 <!---
 Aroshakalpana2468/Aroshakalpana2468 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
