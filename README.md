@@ -10,7 +10,7 @@
 
 
   
-# 🎵 Now playing
+# 🎵 song playing🎵 
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com/)
 
 
