@@ -3,6 +3,9 @@
 - my county is shri lanka
 - my Language is sinhala
 
+## 📊 My Github Status
+![aroshakalpana2468's GitHub Status](https://github-readme-stats.vercel.app/api?username=aroshakalpana2468&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true)
+
 
 <!---
 Aroshakalpana2468/Aroshakalpana2468 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
