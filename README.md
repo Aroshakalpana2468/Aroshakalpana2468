@@ -2,7 +2,7 @@
 - my age is 14 years old
 - my county is sri lanka
 - my Language is sinhala
--  📫 How to reach me : ![contact](https://t.me/BUDDY3_FF)
+- 📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
 
 
 ## 📊 My Github Status
