@@ -1,5 +1,7 @@
 
-## Hi, I'm AROSHA 👋 ##
+## Hi, I'm  👋 ##
+
+<h1 align="center"><a href="https://github.com/aroshakalpana2468"><img src="https://readme-typing-svg.herokuapp.com?font=calibri&color=2494F7&size=25&center=true&lines=Hello+I'm+Arosha+Kalpana"></a></h1>
 
 - 👋 Hi, I’m Arosha kalpana
 - my age is 14 years old
