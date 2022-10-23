@@ -8,6 +8,15 @@
 ## 📊 My Github Status
 ![aroshakalpana2468's GitHub Status](https://github-readme-stats.vercel.app/api?username=aroshakalpana2468&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true)
 
+# 🛠️ MY TOOLS AND LANG
+<a href="https://heroku.com"><img src="https://img.icons8.com/color/48/000000/heroku.png"/></a>
+<a href="https://redis.io"><img src="https://img.icons8.com/color/48/000000/redis.png"/></a>
+<a href="https://www.mongodb.com"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
+<a href="https://cloud.google.com"><img src="https://img.icons8.com/fluency/48/000000/google-cloud.png"/></a>
+<a href="https://azure.microsoft.com/"><img src="https://img.icons8.com/fluency/48/000000/azure-1.png"/></a>
+<a href="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
+<a href="https://digitalocean.com/"><img src="https://img.icons8.com/digitalocean"/></a>
+<a href="https://linode.com/"><img src="https://img.icons8.com/color/48/000000/linode"/></a>
 
   
 # 🎵 song playing🎵 
