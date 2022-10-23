@@ -3,6 +3,8 @@
 
 <h1 align="center"><a href="https://github.com/aroshakalpana2468"><img src="https://readme-typing-svg.herokuapp.com?font=calibri&color=2494F7&size=25&center=true&lines=Hello+I'm+Arosha+Kalpana"></a></h1>
 
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=100px> <img align="left" src="https://github.com/RazorKenway/RazorKenway/raw/main/Developer.gif" width=120px>
+
 - 👋 Hi, I’m Arosha kalpana
 - my age is 14 years old
 - my county is sri lanka
