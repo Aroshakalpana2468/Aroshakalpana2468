@@ -6,7 +6,7 @@
 <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=100px> <img align="left" src="https://github.com/RazorKenway/RazorKenway/raw/main/Developer.gif" width=120px>
 
 - 👋 Hi, I’m Arosha kalpana
-- my age is 14 years old
+- my age is 16 years old
 - my county is sri lanka
 - my Language is sinhala
 - 📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
